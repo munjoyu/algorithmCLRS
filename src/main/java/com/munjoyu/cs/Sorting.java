@@ -2,13 +2,9 @@ package com.munjoyu.cs;
 
 import java.util.Arrays;
 
-/**
- * Hello world!
- *
- */
 public class Sorting
 {
-    static final int SIZE = 100000000;
+    private static final int SIZE = 1000000;
     public static void main( String[] args )
     {
         long[] numbers = new long[SIZE];
